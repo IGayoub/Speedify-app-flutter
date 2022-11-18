@@ -32,8 +32,10 @@ If you are new to Flutter, please first follow the [Flutter Setup](https://flutt
 <img src="assets/Screen/Screen1.jpg" width="200px"> |
 <img src="assets/Screen/Screen2.jpg" width="200px"> |
 <img src="assets/Screen/Screen3.jpg" width="200px"> |
+<p align="center">
 <img src="assets/Screen/Screen4.jpg" width="200px"> |
 <img src="assets/Screen/Screen5.jpg" width="200px">
+</p>
 <div align="center"><img src="assets/Screen/Speedify.png" width="400px"></div>
 <br>
 
