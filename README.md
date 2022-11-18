@@ -16,8 +16,8 @@ If you found this project useful, then please consider giving it a ⭐️ on Git
 If you are new to Flutter, please first follow the [Flutter Setup](https://flutter.dev/docs/get-started/install) guide.
 
 ## Run the Flutter app locally
-1. git clone https://github.com/nmanikiran/vpn_app.git
-1. cd vpn_app
+1. git clone https://github.com/IGayoub/Speedify-app-flutter.git
+1. cd Speedify-app-flutter
 1. `flutter pub get`
 1. run `flutter doctor` make sure everything is checked
 1. `flutter run` will launch the app in Device / Emulator
@@ -28,7 +28,9 @@ If you are new to Flutter, please first follow the [Flutter Setup](https://flutt
 
 
 # Screenshots
-
+<div align="center">
+  <img src="assets/Screen/Speedify.jpg" width="200px">
+</div>
 <img src="assets/Screen/Screen1.jpg" width="200px"> |
 <img src="assets/Screen/Screen1.jpg" width="200px"> |
 <img src="assets/Screen/Screen2.jpg" width="200px"> |
