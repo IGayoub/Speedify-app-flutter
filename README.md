@@ -29,8 +29,9 @@ If you are new to Flutter, please first follow the [Flutter Setup](https://flutt
 
 # Screenshots
 <div align="center">
-  <img src="assets/Screen/Speedify.jpg" width="200px">
+  <img src="assets/Screen/Speedify.png" width="200px">
 </div>
+<br>
 <img src="assets/Screen/Screen1.jpg" width="200px"> |
 <img src="assets/Screen/Screen1.jpg" width="200px"> |
 <img src="assets/Screen/Screen2.jpg" width="200px"> |
