@@ -1,0 +1,54 @@
+{
+    "de": [
+        {
+          "name": "Data Encrypted",
+          "dataName": "10 GB",
+          "icon": "FontAwesomeIcons.lock"
+        },
+        {
+            "name": "Data Encrypted",
+            "dataName": "240 GB",
+            "icon": "FontAwesomeIcons.lock"
+          },
+          {
+            "name": "Data Encrypted",
+            "dataName": "500 GB",
+            "icon": "FontAwesomeIcons.lock"
+          }
+      ],
+    "tds": [
+        {
+            "name": "Top Download Speed",
+            "dataName": "20 Mbps",
+            "icon": "FontAwesomeIcons.downLong"
+          },
+        {
+          "name": "Top Download Speed",
+          "dataName": "22 Mbps",
+          "icon": "FontAwesomeIcons.downLong"
+        },
+        {
+            "name": "Top Download Speed",
+            "dataName": "55 Mbps",
+            "icon": "FontAwesomeIcons.downLong"
+          }
+      ],
+    "tus": [
+
+        {
+            "name": "Top Upload Speed",
+            "dataName": "3 Mbps",
+            "icon": "FontAwesomeIcons.upLong"
+          },
+        {
+          "name": "Top Upload Speed",
+          "dataName": "9 Mbps",
+          "icon": "FontAwesomeIcons.upLong"
+        },
+        {
+            "name": "Top Upload Speed",
+            "dataName": "80 Mbps",
+            "icon": "FontAwesomeIcons.upLong"
+          }
+      ]
+}
